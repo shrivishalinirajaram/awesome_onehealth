@@ -2,11 +2,12 @@
 
 This is a personal checklist space to identify resources related to One Health encompassing animal, environmental, human microbiomes, exposomics, mobile genetic elements, ecological exposures, multi-omics, and computational biology.
 
-[one health](img/one_health.png)
+img/one_health.jpeg
 
 ## Organizations
 
 - [Penn State One Health Microbiome Center](https://www.huck.psu.edu/institutes-and-centers/microbiome-center)
+- [One Health Microbiome Resource](http://onehealthmicrobiome.org/)
 - 
 
 ## Articles
