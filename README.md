@@ -12,7 +12,7 @@ This is a personal checklist space to identify resources related to One Health e
 ## Articles
 
 - Tomasulo, A., Simionati, B., & Facchin, S. (2024). Microbiome One Health Model for a Healthy Ecosystem. Science in One Health, 3, 100065–100065. [https://doi.org/10.1016/j.soh.2024.100065](https://doi.org/10.1016/j.soh.2024.100065)
-- 
+- Ginnan, N., Crandall, S. G., Imchen, M., Dini-Andreote, F., Miyashiro, T. I., Singh, V., Ganda, E., & Bordenstein, S. R. (2025). Ecologically expanding the One Health framework to unify the microbiome sciences. MBio. [https://doi.org/10.1128/mbio.03147-24](https://doi.org/10.1128/mbio.03147-24)
 
 ## Scientists
 
