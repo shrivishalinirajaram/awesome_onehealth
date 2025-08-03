@@ -8,6 +8,11 @@ img/one_health.jpeg
 
 - [Penn State One Health Microbiome Center](https://www.huck.psu.edu/institutes-and-centers/microbiome-center)
 - [One Health Microbiome Resource](http://onehealthmicrobiome.org/)
+- [One Health - CDC](https://www.cdc.gov/one-health/about/index.html)
+- [One Health - WHO](https://www.who.int/health-topics/one-health#tab=tab_1)
+- [One Health Initiative](https://onehealthinitiative.com/)
+- [One Health - WOAH](https://www.woah.org/en/what-we-do/global-initiatives/one-health/)
+- [One Health - USDA](https://www.usda.gov/farming-and-ranching/animal-science/one-health)
 - 
 
 ## Articles
