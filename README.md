@@ -39,4 +39,7 @@ img/one_health.jpeg
 - **Risk Assessment and Management**: One Health research includes developing methods for assessing and managing risks related to daily chemical and environmental exposures, zoonotic diseases, AMR, food safety, and other health threats.
 - **Policy and Governance**: This area examines the policies and governance structures needed to support One Health approaches and promote intersectoral collaboration. 
 
+## Opportunities Board
 
+- [Opportunities - One Health Commission](https://www.onehealthcommission.org/en/resources__services/oh_opportunities_bulletin_board/)
+- 
