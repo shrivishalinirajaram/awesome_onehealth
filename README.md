@@ -25,6 +25,8 @@ img/one_health.jpeg
 
 ## Scientists
 
+
+
 ## Areas of work
 
 - **Zoonotic Diseases**: Research focuses on understanding the transmission and prevention of diseases that can spread between animals and humans, such as COVID-19, influenza, rabies, and Ebola.
