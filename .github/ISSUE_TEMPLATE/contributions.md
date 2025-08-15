@@ -1,13 +1,12 @@
 ---
-name: Contributions
-about: New suggested addition/contribution
-title: ''
-labels: ''
-assignees: ''
-
+name: Resource contribution
+about: Suggest a paper, dataset, tool, or organization for Awesome One Health
+title: "[CONTRIB] <Resource name or short description>"
+labels: contribution
+assignees: shrivishalinirajaram
 ---
 
-### Resource Title
+## Resource Title
 (e.g., Global One Health Initiative)
 
 **Type**
