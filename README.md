@@ -26,6 +26,7 @@ img/one_health.jpeg
 - Desvars-Larrive, A., Vogl, A. E., Puspitarani, G. A., Yang, L., Joachim, A., & Käsbohrer, A. (2024). A One Health framework for exploring zoonotic interactions demonstrated through a case study. Nature Communications, 15(1), 5650. https://doi.org/10.1038/s41467-024-49967-7
 - Pitt, S. J., & Gunn, A. (2024). The One Health Concept. British Journal of Biomedical Science, 81. https://doi.org/10.3389/bjbs.2024.12366
 - Trinh, P., Zaneveld, J. R., Safranek, S., & Rabinowitz, P. M. (2018). One Health Relationships Between Human, Animal, and Environmental Microbiomes: A Mini-Review. Frontiers in Public Health, 6. https://doi.org/10.3389/fpubh.2018.00235
+- Skoufos, S., Stavropoulou, E., Tsigalou, C., & Voidarou, C. (Chrysa). (2025). Microbial Interconnections in One Health: A Critical Nexus Between Companion Animals and Human Microbiomes. Microorganisms, 13(7), 1564. https://doi.org/10.3390/microorganisms13071564
 
 ## Areas of work
 
