@@ -46,4 +46,3 @@ img/one_health.jpeg
 ## Opportunities Board
 
 - [Opportunities - One Health Commission](https://www.onehealthcommission.org/en/resources__services/oh_opportunities_bulletin_board/)
-- 
