@@ -22,10 +22,10 @@ img/one_health.jpeg
 - Tomasulo, A., Simionati, B., & Facchin, S. (2024). Microbiome One Health Model for a Healthy Ecosystem. Science in One Health, 3, 100065–100065. [https://doi.org/10.1016/j.soh.2024.100065](https://doi.org/10.1016/j.soh.2024.100065)
 - Ginnan, N., Crandall, S. G., Imchen, M., Dini-Andreote, F., Miyashiro, T. I., Singh, V., Ganda, E., & Bordenstein, S. R. (2025). Ecologically expanding the One Health framework to unify the microbiome sciences. MBio. [https://doi.org/10.1128/mbio.03147-24](https://doi.org/10.1128/mbio.03147-24)
 - Mackenzie, J. S., & Jeggo, M. (2019). The One Health Approach—Why Is It So Important? Tropical Medicine and Infectious Disease, 4(2), 88. [https://doi.org/10.3390/tropicalmed4020088](https://doi.org/10.3390/tropicalmed4020088)
-
-## Scientists
-
-
+- McEwen, S. A., & Collignon, P. J. (2018). Antimicrobial Resistance: a One Health Perspective. Microbiology Spectrum, 6(2). https://doi.org/10.1128/microbiolspec.arba-0009-2017
+- Desvars-Larrive, A., Vogl, A. E., Puspitarani, G. A., Yang, L., Joachim, A., & Käsbohrer, A. (2024). A One Health framework for exploring zoonotic interactions demonstrated through a case study. Nature Communications, 15(1), 5650. https://doi.org/10.1038/s41467-024-49967-7
+- Pitt, S. J., & Gunn, A. (2024). The One Health Concept. British Journal of Biomedical Science, 81. https://doi.org/10.3389/bjbs.2024.12366
+- Trinh, P., Zaneveld, J. R., Safranek, S., & Rabinowitz, P. M. (2018). One Health Relationships Between Human, Animal, and Environmental Microbiomes: A Mini-Review. Frontiers in Public Health, 6. https://doi.org/10.3389/fpubh.2018.00235
 
 ## Areas of work
 
