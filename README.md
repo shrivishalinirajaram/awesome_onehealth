@@ -27,6 +27,9 @@ img/one_health.jpeg
 - Pitt, S. J., & Gunn, A. (2024). The One Health Concept. British Journal of Biomedical Science, 81. https://doi.org/10.3389/bjbs.2024.12366
 - Trinh, P., Zaneveld, J. R., Safranek, S., & Rabinowitz, P. M. (2018). One Health Relationships Between Human, Animal, and Environmental Microbiomes: A Mini-Review. Frontiers in Public Health, 6. https://doi.org/10.3389/fpubh.2018.00235
 - Skoufos, S., Stavropoulou, E., Tsigalou, C., & Voidarou, C. (Chrysa). (2025). Microbial Interconnections in One Health: A Critical Nexus Between Companion Animals and Human Microbiomes. Microorganisms, 13(7), 1564. https://doi.org/10.3390/microorganisms13071564
+- Destoumieux-Garzón, D., Mavingui, P., Boetsch, G., Boissier, J., Darriet, F., Duboz, P., Fritsch, C., Giraudoux, P., Le Roux, F., Morand, S., Paillard, C., Pontier, D., Sueur, C., & Voituron, Y. (2018). The One Health Concept: 10 Years Old and a Long Road Ahead. Frontiers in Veterinary Science, 5(14). https://doi.org/10.3389/fvets.2018.00014
+- Wolf, M. (2015). Is there really such a thing as “one health”? Thinking about a more than human world from the perspective of cultural anthropology. Social Science & Medicine, 129(129), 5–11. https://doi.org/10.1016/j.socscimed.2014.06.018
+- Prata, J. C., da Costa, J. P., Lopes, I., Andrady, A. L., Duarte, A. C., & Rocha-Santos, T. (2021). A One Health perspective of the impacts of microplastics on animal, human and environmental health. Science of the Total Environment, 777(777), 146094. https://doi.org/10.1016/j.scitotenv.2021.146094
 
 ## Areas of work
 
