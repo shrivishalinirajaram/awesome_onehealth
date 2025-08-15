@@ -90,19 +90,20 @@ This is a personal checklist space to identify resources related to One Health e
 
 ---
 
-## ​ How to Collaborate
+## 📌 How to Collaborate
 
 <details>
 <summary>Know More</summary>
-  
+
 We welcome contributions! Here’s how you can help:
 
-1. **Suggest new resources** by opening an *Issue*—include citations, DOI, summaries, and reasoning.
-2. **Submit additions or edits** via *Pull Requests* - follow the style used in existing sections.
-3. **Discuss directions** via [Discussions](#). Propose outstanding One Health datasets, tools, or interdisciplinary themes.
-4. **Use tags** when contributing (e.g. `microbiome`, `exposomics`, `AMR`, `infectious microbiome`) to help categorize contributions.
+1. **Suggest a new resource** – Use our [Resource Contribution form](https://github.com/shrivishalinirajaram/awesome_onehealth/issues/new?template=contributions.md) to propose a paper, dataset, tool, or organization. No Git knowledge required; just fill out the template and submit.
+2. **Request a new feature** – Use our [Feature Request form](https://github.com/shrivishalinirajaram/awesome_onehealth/issues/new?template=feature_request.md) to suggest new categories, metadata fields, or improvements to this repository.
+3. **Submit additions or edits via Pull Requests** – Fork the repository, make your changes following the style in existing sections, and open a Pull Request with a clear description.
+4. **Join discussions** – Visit the [Discussions tab](https://github.com/shrivishalinirajaram/awesome_onehealth/discussions) to share ideas, ask questions, or propose interdisciplinary One Health topics.
+5. **Use relevant tags** – When contributing, include tags like `microbiome`, `exposomics`, `AMR`, `infectious microbiome` to help categorize contributions.
 
-See [CONTRIBUTING.md](./CONTRIBUTING.md) for detailed norms and formatting guidance.
+See [CONTRIBUTING.md](./CONTRIBUTING.md) for complete guidelines, style rules, and contribution checklists.
 
 </details>
 
