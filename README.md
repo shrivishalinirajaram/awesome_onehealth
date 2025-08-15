@@ -2,7 +2,7 @@
 
 This is a personal checklist space to identify resources related to One Health encompassing animal, environmental, human microbiomes, exposomics, mobile genetic elements, ecological exposures, multi-omics, and computational biology.
 
-img/one_health.jpeg
+![One Health](https://www.huck.psu.edu/assets/uploads/documents/OHMC_figure-Borderless.jpg)
 
 ## Organizations
 
