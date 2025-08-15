@@ -1,5 +1,7 @@
 #  **Awesome One Health**
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16882806.svg)](https://doi.org/10.5281/zenodo.16882806)
+
 This is a personal checklist space to identify resources related to One Health encompassing animal, environmental, human microbiomes, exposomics, mobile genetic elements, ecological exposures, multi-omics, and computational biology.
 
 ![One Health](https://www.huck.psu.edu/assets/uploads/documents/OHMC_figure-Borderless.jpg)
