@@ -6,7 +6,12 @@ This is a personal checklist space to identify resources related to One Health e
 
 ![One Health](https://www.huck.psu.edu/assets/uploads/documents/OHMC_figure-Borderless.jpg)
 
+---
+
 ## Organizations
+
+<details>
+<summary>Know More</summary>
 
 - [Penn State One Health Microbiome Center](https://www.huck.psu.edu/institutes-and-centers/microbiome-center)
 - [One Health Microbiome Resource](http://onehealthmicrobiome.org/)
@@ -19,7 +24,14 @@ This is a personal checklist space to identify resources related to One Health e
 - [One Health US-EPA](https://www.epa.gov/one-health)
 - [One Health Commission](https://www.onehealthcommission.org/en/why_one_health/what_is_one_health/)
 
+</details>
+
+---
+
 ## Articles
+
+<details>
+<summary>Know More</summary>
 
 - Tomasulo, A., Simionati, B., & Facchin, S. (2024). Microbiome One Health Model for a Healthy Ecosystem. Science in One Health, 3, 100065–100065. [https://doi.org/10.1016/j.soh.2024.100065](https://doi.org/10.1016/j.soh.2024.100065)
 - Ginnan, N., Crandall, S. G., Imchen, M., Dini-Andreote, F., Miyashiro, T. I., Singh, V., Ganda, E., & Bordenstein, S. R. (2025). Ecologically expanding the One Health framework to unify the microbiome sciences. MBio. [https://doi.org/10.1128/mbio.03147-24](https://doi.org/10.1128/mbio.03147-24)
@@ -33,7 +45,14 @@ This is a personal checklist space to identify resources related to One Health e
 - Wolf, M. (2015). Is there really such a thing as “one health”? Thinking about a more than human world from the perspective of cultural anthropology. Social Science & Medicine, 129(129), 5–11. https://doi.org/10.1016/j.socscimed.2014.06.018
 - Prata, J. C., da Costa, J. P., Lopes, I., Andrady, A. L., Duarte, A. C., & Rocha-Santos, T. (2021). A One Health perspective of the impacts of microplastics on animal, human and environmental health. Science of the Total Environment, 777(777), 146094. https://doi.org/10.1016/j.scitotenv.2021.146094
 
-## Areas of work
+</details>
+
+---
+
+## Current Known Areas of Work
+
+<details>
+<summary>Know More</summary>
 
 - **Zoonotic Diseases**: Research focuses on understanding the transmission and prevention of diseases that can spread between animals and humans, such as COVID-19, influenza, rabies, and Ebola.
 - **Antimicrobial Resistance (AMR)**: This area investigates the emergence and spread of drug-resistant bacteria, viruses, fungi, and parasites, and how they impact both human and animal health.
@@ -43,8 +62,48 @@ This is a personal checklist space to identify resources related to One Health e
 - **Ecosystem Health and Biodiversity**: One Health research explores the connections between healthy ecosystems and human and animal health, including the impacts of deforestation, pollution, and loss of biodiversity on disease transmission and overall health.
 - **Surveillance and Monitoring**: This area focuses on developing integrated surveillance systems that track diseases and health trends across human, animal, and environmental sectors to enable early detection and response.
 - **Risk Assessment and Management**: One Health research includes developing methods for assessing and managing risks related to daily chemical and environmental exposures, zoonotic diseases, AMR, food safety, and other health threats.
-- **Policy and Governance**: This area examines the policies and governance structures needed to support One Health approaches and promote intersectoral collaboration. 
+- **Policy and Governance**: This area examines the policies and governance structures needed to support One Health approaches and promote intersectoral collaboration.
+
+</details>
+
+---
 
 ## Opportunities Board
 
+<details>
+<summary>Know More</summary>
+
 - [Opportunities - One Health Commission](https://www.onehealthcommission.org/en/resources__services/oh_opportunities_bulletin_board/)
+
+</details>
+
+---
+
+## Skillsets
+
+<details>
+<summary>Know More</summary>
+
+**Updates coming soon**
+
+</details>
+
+---
+
+## ​ How to Collaborate
+
+<details>
+<summary>Know More</summary>
+  
+We welcome contributions! Here’s how you can help:
+
+1. **Suggest new resources** by opening an *Issue*—include citations, DOI, summaries, and reasoning.
+2. **Submit additions or edits** via *Pull Requests* - follow the style used in existing sections.
+3. **Discuss directions** via [Discussions](#). Propose outstanding One Health datasets, tools, or interdisciplinary themes.
+4. **Use tags** when contributing (e.g. `microbiome`, `exposomics`, `AMR`, `infectious microbiome`) to help categorize contributions.
+
+See [CONTRIBUTING.md](./CONTRIBUTING.md) for detailed norms and formatting guidance.
+
+</details>
+
+---
