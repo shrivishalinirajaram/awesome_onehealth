@@ -90,7 +90,7 @@ This is a personal checklist space to identify resources related to One Health e
 
 ---
 
-## 📌 How to Collaborate
+## How to Collaborate
 
 <details>
 <summary>Know More</summary>
