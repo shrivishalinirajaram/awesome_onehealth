@@ -23,6 +23,7 @@ This is a personal checklist space to identify resources related to One Health e
 - [University of Tennessee One Health Initiative](https://onehealth.tennessee.edu/)
 - [One Health US-EPA](https://www.epa.gov/one-health)
 - [One Health Commission](https://www.onehealthcommission.org/en/why_one_health/what_is_one_health/)
+- [One Health - Spain](https://onehealthplataforma.es)
 
 </details>
 
